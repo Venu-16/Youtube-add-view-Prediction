@@ -21,16 +21,3 @@ The dataset includes the following columns: `vidid` (video ID), `views`, `likes`
 ## Future Work
 
 Future improvements include hyperparameter tuning, additional feature engineering (e.g., keywords in video titles), and the use of ensemble methods for better prediction accuracy.
-
-## Installation
-
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/yourusername/youtube-adview-prediction.git
-cd youtube-adview-prediction
-pip install -r requirements.txt
-```
-
----
-
-This README provides a concise overview of the project, including the data, methodology, and future directions.
